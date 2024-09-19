@@ -25,4 +25,4 @@ Bu loyiha oddiy dasturlash tushunchalarini va dastur kodlarini o'z ichiga oladi.
 
 1. Repozitoriyani kompyuteringizga klonlang:
    ```bash
-   git clone https://github.com/username/myfirsthomework.git
+   git clone https://github.com/username/secondhomework.git
